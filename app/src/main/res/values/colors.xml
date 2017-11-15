@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="guide_btn">#ffffff</color>
+    <color name="blue_btn_pressed">#ff96bfd2</color>
+    <color name="blue_btn_unpressed">#ffaedef4</color>
+    <color name="black_more">#515151</color>
+    <color name="frame_font">#bfbfbf</color>
+    <color name="alpha">#ffffffff</color>
+</resources>
